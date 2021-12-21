@@ -1,0 +1,802 @@
+[
+  {
+    "id": 20,
+    "cart": 138,
+    "view": 43,
+    "revenue": 8686191.03,
+    "purchase": 853,
+    "updatedAt": "2021-07-04"
+  },
+  {
+    "id": 12,
+    "cart": 290,
+    "view": 762,
+    "revenue": 5820858.67,
+    "purchase": 24,
+    "updatedAt": "2020-04-16"
+  },
+  {
+    "id": 28,
+    "cart": 581,
+    "view": 980,
+    "revenue": 9557287.08,
+    "purchase": 34,
+    "updatedAt": "2021-01-22"
+  },
+  {
+    "id": 27,
+    "cart": 801,
+    "view": 361,
+    "revenue": 2297130.27,
+    "purchase": 485,
+    "updatedAt": "2021-04-29"
+  },
+  {
+    "id": 17,
+    "cart": 450,
+    "view": 230,
+    "revenue": 3913829.84,
+    "purchase": 420,
+    "updatedAt": "2021-06-07"
+  },
+  {
+    "id": 13,
+    "cart": 259,
+    "view": 29,
+    "revenue": 1411207.63,
+    "purchase": 144,
+    "updatedAt": "2020-06-27"
+  },
+  {
+    "id": 17,
+    "cart": 104,
+    "view": 518,
+    "revenue": 8289988.58,
+    "purchase": 471,
+    "updatedAt": "2020-07-28"
+  },
+  {
+    "id": 17,
+    "cart": 851,
+    "view": 664,
+    "revenue": 1490605.88,
+    "purchase": 145,
+    "updatedAt": "2020-12-09"
+  },
+  {
+    "id": 27,
+    "cart": 301,
+    "view": 90,
+    "revenue": 3477776.55,
+    "purchase": 206,
+    "updatedAt": "2021-02-16"
+  },
+  {
+    "id": 13,
+    "cart": 480,
+    "view": 344,
+    "revenue": 8150593.87,
+    "purchase": 990,
+    "updatedAt": "2021-04-07"
+  },
+  {
+    "id": 20,
+    "cart": 85,
+    "view": 809,
+    "revenue": 5030019.21,
+    "purchase": 542,
+    "updatedAt": "2020-10-27"
+  },
+  {
+    "id": 18,
+    "cart": 644,
+    "view": 347,
+    "revenue": 9288532.75,
+    "purchase": 376,
+    "updatedAt": "2021-08-27"
+  },
+  {
+    "id": 26,
+    "cart": 128,
+    "view": 379,
+    "revenue": 8074321.07,
+    "purchase": 623,
+    "updatedAt": "2021-07-29"
+  },
+  {
+    "id": 29,
+    "cart": 720,
+    "view": 324,
+    "revenue": 4834802.09,
+    "purchase": 137,
+    "updatedAt": "2021-07-06"
+  },
+  {
+    "id": 22,
+    "cart": 420,
+    "view": 841,
+    "revenue": 5939716.07,
+    "purchase": 985,
+    "updatedAt": "2020-03-09"
+  },
+  {
+    "id": 21,
+    "cart": 996,
+    "view": 509,
+    "revenue": 3105712.63,
+    "purchase": 174,
+    "updatedAt": "2020-08-14"
+  },
+  {
+    "id": 11,
+    "cart": 240,
+    "view": 183,
+    "revenue": 1926434.82,
+    "purchase": 711,
+    "updatedAt": "2021-05-22"
+  },
+  {
+    "id": 22,
+    "cart": 581,
+    "view": 260,
+    "revenue": 9922048.49,
+    "purchase": 279,
+    "updatedAt": "2021-10-26"
+  },
+  {
+    "id": 13,
+    "cart": 973,
+    "view": 711,
+    "revenue": 7104706.73,
+    "purchase": 726,
+    "updatedAt": "2021-01-22"
+  },
+  {
+    "id": 12,
+    "cart": 787,
+    "view": 507,
+    "revenue": 7299939.75,
+    "purchase": 87,
+    "updatedAt": "2021-01-31"
+  },
+  {
+    "id": 25,
+    "cart": 657,
+    "view": 481,
+    "revenue": 3078502.67,
+    "purchase": 683,
+    "updatedAt": "2021-05-11"
+  },
+  {
+    "id": 21,
+    "cart": 943,
+    "view": 859,
+    "revenue": 1241901.54,
+    "purchase": 648,
+    "updatedAt": "2020-02-08"
+  },
+  {
+    "id": 24,
+    "cart": 106,
+    "view": 14,
+    "revenue": 6789028.12,
+    "purchase": 219,
+    "updatedAt": "2020-01-28"
+  },
+  {
+    "id": 29,
+    "cart": 144,
+    "view": 192,
+    "revenue": 6778187.36,
+    "purchase": 420,
+    "updatedAt": "2021-01-02"
+  },
+  {
+    "id": 13,
+    "cart": 25,
+    "view": 904,
+    "revenue": 5435711.15,
+    "purchase": 351,
+    "updatedAt": "2021-05-01"
+  },
+  {
+    "id": 14,
+    "cart": 729,
+    "view": 754,
+    "revenue": 6337468.98,
+    "purchase": 414,
+    "updatedAt": "2020-07-12"
+  },
+  {
+    "id": 13,
+    "cart": 460,
+    "view": 595,
+    "revenue": 5923100.31,
+    "purchase": 584,
+    "updatedAt": "2021-04-11"
+  },
+  {
+    "id": 17,
+    "cart": 611,
+    "view": 516,
+    "revenue": 9526034.27,
+    "purchase": 791,
+    "updatedAt": "2021-09-01"
+  },
+  {
+    "id": 16,
+    "cart": 904,
+    "view": 632,
+    "revenue": 1956703.46,
+    "purchase": 194,
+    "updatedAt": "2021-08-27"
+  },
+  {
+    "id": 27,
+    "cart": 25,
+    "view": 970,
+    "revenue": 8568703.01,
+    "purchase": 962,
+    "updatedAt": "2021-09-05"
+  },
+  {
+    "id": 16,
+    "cart": 557,
+    "view": 355,
+    "revenue": 7464681.53,
+    "purchase": 93,
+    "updatedAt": "2021-06-18"
+  },
+  {
+    "id": 15,
+    "cart": 283,
+    "view": 596,
+    "revenue": 3321978.99,
+    "purchase": 678,
+    "updatedAt": "2021-09-30"
+  },
+  {
+    "id": 25,
+    "cart": 424,
+    "view": 386,
+    "revenue": 3191694.48,
+    "purchase": 373,
+    "updatedAt": "2021-09-17"
+  },
+  {
+    "id": 19,
+    "cart": 806,
+    "view": 157,
+    "revenue": 6825250.51,
+    "purchase": 401,
+    "updatedAt": "2021-05-08"
+  },
+  {
+    "id": 22,
+    "cart": 387,
+    "view": 675,
+    "revenue": 811878.46,
+    "purchase": 502,
+    "updatedAt": "2021-06-06"
+  },
+  {
+    "id": 28,
+    "cart": 581,
+    "view": 836,
+    "revenue": 3954141.83,
+    "purchase": 434,
+    "updatedAt": "2020-07-14"
+  },
+  {
+    "id": 22,
+    "cart": 663,
+    "view": 235,
+    "revenue": 2917633.63,
+    "purchase": 454,
+    "updatedAt": "2021-03-23"
+  },
+  {
+    "id": 17,
+    "cart": 778,
+    "view": 432,
+    "revenue": 7601672.78,
+    "purchase": 118,
+    "updatedAt": "2020-11-23"
+  },
+  {
+    "id": 20,
+    "cart": 440,
+    "view": 360,
+    "revenue": 7663797.81,
+    "purchase": 767,
+    "updatedAt": "2020-11-20"
+  },
+  {
+    "id": 25,
+    "cart": 846,
+    "view": 373,
+    "revenue": 3191417.14,
+    "purchase": 659,
+    "updatedAt": "2020-10-28"
+  },
+  {
+    "id": 15,
+    "cart": 85,
+    "view": 840,
+    "revenue": 8609410.81,
+    "purchase": 814,
+    "updatedAt": "2020-08-01"
+  },
+  {
+    "id": 25,
+    "cart": 232,
+    "view": 610,
+    "revenue": 5920408.61,
+    "purchase": 125,
+    "updatedAt": "2020-12-17"
+  },
+  {
+    "id": 12,
+    "cart": 117,
+    "view": 885,
+    "revenue": 9888542.38,
+    "purchase": 792,
+    "updatedAt": "2021-07-27"
+  },
+  {
+    "id": 16,
+    "cart": 765,
+    "view": 269,
+    "revenue": 6350440.38,
+    "purchase": 889,
+    "updatedAt": "2021-08-31"
+  },
+  {
+    "id": 27,
+    "cart": 191,
+    "view": 419,
+    "revenue": 7016516.13,
+    "purchase": 527,
+    "updatedAt": "2020-09-04"
+  },
+  {
+    "id": 26,
+    "cart": 480,
+    "view": 488,
+    "revenue": 1870869.35,
+    "purchase": 415,
+    "updatedAt": "2020-12-04"
+  },
+  {
+    "id": 16,
+    "cart": 583,
+    "view": 175,
+    "revenue": 3862474.27,
+    "purchase": 720,
+    "updatedAt": "2020-08-26"
+  },
+  {
+    "id": 13,
+    "cart": 195,
+    "view": 807,
+    "revenue": 8029808.46,
+    "purchase": 508,
+    "updatedAt": "2021-07-15"
+  },
+  {
+    "id": 17,
+    "cart": 792,
+    "view": 282,
+    "revenue": 7679691.92,
+    "purchase": 44,
+    "updatedAt": "2020-09-21"
+  },
+  {
+    "id": 13,
+    "cart": 546,
+    "view": 507,
+    "revenue": 965062.35,
+    "purchase": 607,
+    "updatedAt": "2020-10-22"
+  },
+  {
+    "id": 21,
+    "cart": 515,
+    "view": 702,
+    "revenue": 8617006.39,
+    "purchase": 758,
+    "updatedAt": "2021-08-11"
+  },
+  {
+    "id": 28,
+    "cart": 629,
+    "view": 349,
+    "revenue": 7361635.71,
+    "purchase": 985,
+    "updatedAt": "2021-04-09"
+  },
+  {
+    "id": 18,
+    "cart": 482,
+    "view": 391,
+    "revenue": 2784581.16,
+    "purchase": 787,
+    "updatedAt": "2021-09-26"
+  },
+  {
+    "id": 15,
+    "cart": 165,
+    "view": 439,
+    "revenue": 9857291.72,
+    "purchase": 278,
+    "updatedAt": "2020-08-10"
+  },
+  {
+    "id": 11,
+    "cart": 353,
+    "view": 985,
+    "revenue": 3258029.45,
+    "purchase": 986,
+    "updatedAt": "2021-11-21"
+  },
+  {
+    "id": 25,
+    "cart": 302,
+    "view": 231,
+    "revenue": 436604.94,
+    "purchase": 101,
+    "updatedAt": "2021-04-08"
+  },
+  {
+    "id": 11,
+    "cart": 220,
+    "view": 863,
+    "revenue": 8018447.47,
+    "purchase": 758,
+    "updatedAt": "2020-05-02"
+  },
+  {
+    "id": 13,
+    "cart": 216,
+    "view": 793,
+    "revenue": 3689131.48,
+    "purchase": 895,
+    "updatedAt": "2021-07-28"
+  },
+  {
+    "id": 20,
+    "cart": 498,
+    "view": 385,
+    "revenue": 9296518.12,
+    "purchase": 46,
+    "updatedAt": "2020-12-29"
+  },
+  {
+    "id": 27,
+    "cart": 170,
+    "view": 57,
+    "revenue": 3716814.52,
+    "purchase": 537,
+    "updatedAt": "2021-06-06"
+  },
+  {
+    "id": 11,
+    "cart": 620,
+    "view": 278,
+    "revenue": 5190196.44,
+    "purchase": 418,
+    "updatedAt": "2020-03-07"
+  },
+  {
+    "id": 15,
+    "cart": 706,
+    "view": 24,
+    "revenue": 7943237.16,
+    "purchase": 81,
+    "updatedAt": "2020-02-16"
+  },
+  {
+    "id": 17,
+    "cart": 652,
+    "view": 649,
+    "revenue": 1031245.57,
+    "purchase": 63,
+    "updatedAt": "2021-08-24"
+  },
+  {
+    "id": 18,
+    "cart": 676,
+    "view": 562,
+    "revenue": 2823324.99,
+    "purchase": 131,
+    "updatedAt": "2021-05-29"
+  },
+  {
+    "id": 24,
+    "cart": 550,
+    "view": 248,
+    "revenue": 3735796.85,
+    "purchase": 396,
+    "updatedAt": "2020-06-19"
+  },
+  {
+    "id": 25,
+    "cart": 75,
+    "view": 675,
+    "revenue": 9387818.58,
+    "purchase": 14,
+    "updatedAt": "2020-07-03"
+  },
+  {
+    "id": 18,
+    "cart": 904,
+    "view": 920,
+    "revenue": 4168224.49,
+    "purchase": 635,
+    "updatedAt": "2021-06-24"
+  },
+  {
+    "id": 17,
+    "cart": 463,
+    "view": 943,
+    "revenue": 4172504.18,
+    "purchase": 829,
+    "updatedAt": "2020-08-30"
+  },
+  {
+    "id": 15,
+    "cart": 877,
+    "view": 296,
+    "revenue": 2112578.27,
+    "purchase": 44,
+    "updatedAt": "2020-08-22"
+  },
+  {
+    "id": 22,
+    "cart": 89,
+    "view": 688,
+    "revenue": 3276223.08,
+    "purchase": 791,
+    "updatedAt": "2020-03-25"
+  },
+  {
+    "id": 24,
+    "cart": 592,
+    "view": 644,
+    "revenue": 6283424.98,
+    "purchase": 372,
+    "updatedAt": "2021-08-06"
+  },
+  {
+    "id": 20,
+    "cart": 556,
+    "view": 605,
+    "revenue": 9341552.86,
+    "purchase": 959,
+    "updatedAt": "2021-01-19"
+  },
+  {
+    "id": 12,
+    "cart": 997,
+    "view": 337,
+    "revenue": 192244.01,
+    "purchase": 27,
+    "updatedAt": "2021-11-15"
+  },
+  {
+    "id": 29,
+    "cart": 55,
+    "view": 36,
+    "revenue": 2882902.25,
+    "purchase": 164,
+    "updatedAt": "2021-09-23"
+  },
+  {
+    "id": 29,
+    "cart": 52,
+    "view": 470,
+    "revenue": 1211417.97,
+    "purchase": 754,
+    "updatedAt": "2020-06-14"
+  },
+  {
+    "id": 13,
+    "cart": 643,
+    "view": 91,
+    "revenue": 9371979.04,
+    "purchase": 672,
+    "updatedAt": "2020-08-25"
+  },
+  {
+    "id": 12,
+    "cart": 326,
+    "view": 49,
+    "revenue": 5673015.65,
+    "purchase": 449,
+    "updatedAt": "2021-07-10"
+  },
+  {
+    "id": 14,
+    "cart": 486,
+    "view": 612,
+    "revenue": 5131681.24,
+    "purchase": 785,
+    "updatedAt": "2020-03-09"
+  },
+  {
+    "id": 16,
+    "cart": 512,
+    "view": 808,
+    "revenue": 1899166.46,
+    "purchase": 922,
+    "updatedAt": "2020-08-09"
+  },
+  {
+    "id": 11,
+    "cart": 939,
+    "view": 402,
+    "revenue": 5662677.61,
+    "purchase": 205,
+    "updatedAt": "2020-11-14"
+  },
+  {
+    "id": 19,
+    "cart": 374,
+    "view": 914,
+    "revenue": 7567185.22,
+    "purchase": 89,
+    "updatedAt": "2020-07-01"
+  },
+  {
+    "id": 23,
+    "cart": 456,
+    "view": 536,
+    "revenue": 2019867.02,
+    "purchase": 313,
+    "updatedAt": "2020-06-08"
+  },
+  {
+    "id": 15,
+    "cart": 102,
+    "view": 259,
+    "revenue": 2236165.49,
+    "purchase": 622,
+    "updatedAt": "2020-06-22"
+  },
+  {
+    "id": 11,
+    "cart": 870,
+    "view": 250,
+    "revenue": 3732560.49,
+    "purchase": 100,
+    "updatedAt": "2020-12-08"
+  },
+  {
+    "id": 24,
+    "cart": 547,
+    "view": 633,
+    "revenue": 7908594.22,
+    "purchase": 20,
+    "updatedAt": "2021-12-02"
+  },
+  {
+    "id": 27,
+    "cart": 805,
+    "view": 356,
+    "revenue": 887224.18,
+    "purchase": 490,
+    "updatedAt": "2020-04-25"
+  },
+  {
+    "id": 19,
+    "cart": 600,
+    "view": 361,
+    "revenue": 9442192.77,
+    "purchase": 604,
+    "updatedAt": "2021-01-06"
+  },
+  {
+    "id": 27,
+    "cart": 800,
+    "view": 195,
+    "revenue": 3858125.35,
+    "purchase": 416,
+    "updatedAt": "2020-06-20"
+  },
+  {
+    "id": 13,
+    "cart": 700,
+    "view": 510,
+    "revenue": 5688075.36,
+    "purchase": 556,
+    "updatedAt": "2021-11-13"
+  },
+  {
+    "id": 16,
+    "cart": 760,
+    "view": 198,
+    "revenue": 2116656.71,
+    "purchase": 685,
+    "updatedAt": "2020-11-28"
+  },
+  {
+    "id": 14,
+    "cart": 776,
+    "view": 88,
+    "revenue": 2832446.08,
+    "purchase": 93,
+    "updatedAt": "2020-01-30"
+  },
+  {
+    "id": 23,
+    "cart": 39,
+    "view": 690,
+    "revenue": 2859087.37,
+    "purchase": 654,
+    "updatedAt": "2020-09-14"
+  },
+  {
+    "id": 28,
+    "cart": 276,
+    "view": 89,
+    "revenue": 736551.63,
+    "purchase": 378,
+    "updatedAt": "2021-12-09"
+  },
+  {
+    "id": 12,
+    "cart": 61,
+    "view": 341,
+    "revenue": 6824271.08,
+    "purchase": 257,
+    "updatedAt": "2021-05-02"
+  },
+  {
+    "id": 11,
+    "cart": 489,
+    "view": 633,
+    "revenue": 7779829.35,
+    "purchase": 405,
+    "updatedAt": "2020-03-30"
+  },
+  {
+    "id": 12,
+    "cart": 832,
+    "view": 522,
+    "revenue": 8316200.01,
+    "purchase": 609,
+    "updatedAt": "2021-06-27"
+  },
+  {
+    "id": 23,
+    "cart": 869,
+    "view": 824,
+    "revenue": 5386593.87,
+    "purchase": 193,
+    "updatedAt": "2020-10-06"
+  },
+  {
+    "id": 19,
+    "cart": 898,
+    "view": 412,
+    "revenue": 7971337.31,
+    "purchase": 993,
+    "updatedAt": "2020-03-19"
+  },
+  {
+    "id": 25,
+    "cart": 56,
+    "view": 273,
+    "revenue": 2592490.66,
+    "purchase": 24,
+    "updatedAt": "2021-05-18"
+  },
+  {
+    "id": 22,
+    "cart": 453,
+    "view": 278,
+    "revenue": 3106563.09,
+    "purchase": 787,
+    "updatedAt": "2020-06-03"
+  }
+]
